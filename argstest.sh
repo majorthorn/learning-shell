@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # set -e
+echo "Test"
 
 print_help() {
     echo "Usage: bash goinstall.sh OPTIONS"
